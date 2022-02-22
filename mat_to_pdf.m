@@ -1,0 +1,1 @@
+print -sleg_model_compatible_6 -dpdf -r300 exported_file_name.pdf
